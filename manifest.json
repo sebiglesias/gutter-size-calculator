@@ -1,0 +1,15 @@
+{
+  "name": "Gutter Size & Downspout Calculator \u2014 5\" vs 6\" K-Style & Downspouts",
+  "short_name": "Gutter Calc",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#061118",
+  "theme_color": "#06b6d4",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
